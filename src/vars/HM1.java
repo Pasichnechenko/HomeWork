@@ -95,19 +95,11 @@ public class HM1 {
             System.out.println("expression 432>500 is false");
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+        //константы
+        final int WINDOW = 150;
+        final int DOOR = 100;
+        //WINDOW = 20; выдает ошибку
+     
 
     }
 }
